@@ -41,9 +41,3 @@
 | **Docs** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white) |
 
 <sub>🐍 Python, only under duress.</sub>
-
----
-
-<div align="center">
-<sub>Typed always · containerised by default · tested before it ships</sub>
-</div>
